@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.exe
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.deps.json
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.dll
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.pdb
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.dll
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.pdb
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.genruntimeconfig.cache
