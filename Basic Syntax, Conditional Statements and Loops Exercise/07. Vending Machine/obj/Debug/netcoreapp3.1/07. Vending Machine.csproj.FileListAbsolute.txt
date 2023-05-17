@@ -1,0 +1,13 @@
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.AssemblyReference.cache
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.CoreCompileInputs.cache
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb
+X:\Softuni Fundamentals\Basic Syntax, Conditional Statements and Loops Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.genruntimeconfig.cache
