@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. English Name of the Last Digit", "2. English Name of the Last Digit\2. English Name of the Last Digit.csproj", "{8DE40D8C-14A1-4032-BE61-464C1BF4F26C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. English Name of the Last Digit", "2. English Name of the Last Digit\02. English Name of the Last Digit.csproj", "{8DE40D8C-14A1-4032-BE61-464C1BF4F26C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Gaming Store", "03. Gaming Store\03. Gaming Store.csproj", "{A5EBF338-5112-4DD4-9766-E53E54E943B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Reverse String", "04. Reverse String\04. Reverse String.csproj", "{74548AD7-A987-4A7D-AE59-965A7895C729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strong Number", "..\5. Basic Syntax, Conditional Statements and Loops Exercise\06. Strong Number\06. Strong Number.csproj", "{7E085583-DB01-46F7-B36B-21B5194D925E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Padawan Equipment", "..\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\09. Padawan Equipment.csproj", "{73574F66-AFC1-4C44-8253-B59705046DE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{A5EBF338-5112-4DD4-9766-E53E54E943B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5EBF338-5112-4DD4-9766-E53E54E943B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5EBF338-5112-4DD4-9766-E53E54E943B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74548AD7-A987-4A7D-AE59-965A7895C729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74548AD7-A987-4A7D-AE59-965A7895C729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74548AD7-A987-4A7D-AE59-965A7895C729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74548AD7-A987-4A7D-AE59-965A7895C729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E085583-DB01-46F7-B36B-21B5194D925E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E085583-DB01-46F7-B36B-21B5194D925E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E085583-DB01-46F7-B36B-21B5194D925E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E085583-DB01-46F7-B36B-21B5194D925E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73574F66-AFC1-4C44-8253-B59705046DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73574F66-AFC1-4C44-8253-B59705046DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73574F66-AFC1-4C44-8253-B59705046DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73574F66-AFC1-4C44-8253-B59705046DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

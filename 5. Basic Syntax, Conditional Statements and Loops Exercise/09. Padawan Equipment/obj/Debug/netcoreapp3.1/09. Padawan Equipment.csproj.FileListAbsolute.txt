@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+X:\SoftUni-Fundamentals-C-\5. Basic Syntax, Conditional Statements and Loops Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.genruntimeconfig.cache

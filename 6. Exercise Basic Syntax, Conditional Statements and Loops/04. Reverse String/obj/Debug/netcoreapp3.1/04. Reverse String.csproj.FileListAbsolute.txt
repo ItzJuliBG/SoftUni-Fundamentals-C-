@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.exe
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.deps.json
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.dll
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.pdb
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.dll
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.pdb
+X:\SoftUni-Fundamentals-C-\6. Exercise Basic Syntax, Conditional Statements and Loops\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.genruntimeconfig.cache
