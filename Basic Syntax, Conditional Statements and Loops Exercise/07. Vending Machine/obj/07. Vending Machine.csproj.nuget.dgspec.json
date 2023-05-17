@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Softuni Fundamentals\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj": {}
+    "X:\\SoftUni-Fundamentals-C-\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj": {}
   },
   "projects": {
-    "X:\\Softuni Fundamentals\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj": {
+    "X:\\SoftUni-Fundamentals-C-\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Softuni Fundamentals\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj",
+        "projectUniqueName": "X:\\SoftUni-Fundamentals-C-\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj",
         "projectName": "07. Vending Machine",
-        "projectPath": "X:\\Softuni Fundamentals\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj",
+        "projectPath": "X:\\SoftUni-Fundamentals-C-\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\07. Vending Machine.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "X:\\Softuni Fundamentals\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\obj\\",
+        "outputPath": "X:\\SoftUni-Fundamentals-C-\\Basic Syntax, Conditional Statements and Loops Exercise\\07. Vending Machine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
