@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\02. English Name of the Last Digit.csproj",
-      "projectName": "02. English Name of the Last Digit",
-      "projectPath": "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\02. English Name of the Last Digit.csproj",
+      "projectUniqueName": "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
+      "projectName": "02. Sum Digits",
+      "projectPath": "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\obj\\",
+      "outputPath": "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\02. Sum Digits\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

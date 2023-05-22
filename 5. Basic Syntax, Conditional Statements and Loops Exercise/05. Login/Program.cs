@@ -11,9 +11,10 @@ namespace _05._Login
             Array.Reverse(stringArray);
             string realpass = new string(stringArray);
             bool block = false;
-
+            int blocked = 0;
             for (int i = 0; i < 4; i++)
             {
+
                 string enter = Console.ReadLine();
                 char[] stringArrayy = enter.ToCharArray();
                 Array.Reverse(stringArrayy);
@@ -23,19 +24,21 @@ namespace _05._Login
 
                     Console.WriteLine($"User {t} logged in.");
                     block = true;
+
                     break;
                 }
-                else
+                else if (blocked != 3)
                 {
-                    Console.WriteLine("Incorrect password. Try again.");//
+                    Console.WriteLine("Incorrect password. Try again.");
+                    blocked++;
                 }
 
             }
             if (block == false)
             {
                 Console.WriteLine($"User {t} blocked!");
+                //  break;
             }
-            // 50/100 done
         }
     }
 }

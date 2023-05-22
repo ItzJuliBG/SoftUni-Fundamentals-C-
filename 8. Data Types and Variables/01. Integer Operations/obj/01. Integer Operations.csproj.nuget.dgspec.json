@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\02. English Name of the Last Digit.csproj": {}
+    "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj": {}
   },
   "projects": {
-    "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\02. English Name of the Last Digit.csproj": {
+    "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\02. English Name of the Last Digit.csproj",
-        "projectName": "02. English Name of the Last Digit",
-        "projectPath": "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\02. English Name of the Last Digit.csproj",
+        "projectUniqueName": "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj",
+        "projectName": "01. Integer Operations",
+        "projectPath": "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "X:\\SoftUni-Fundamentals-C-\\6. Exercise Basic Syntax, Conditional Statements and Loops\\2. English Name of the Last Digit\\obj\\",
+        "outputPath": "X:\\SoftUni-Fundamentals-C-\\8. Data Types and Variables\\01. Integer Operations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
