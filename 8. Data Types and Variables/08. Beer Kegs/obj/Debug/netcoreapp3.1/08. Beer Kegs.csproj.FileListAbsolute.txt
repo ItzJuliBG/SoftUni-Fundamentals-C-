@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.genruntimeconfig.cache
