@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.  Spice Must Flow", "09.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum of Chars", "04. Sum of Chars\04. Sum of Chars.csproj", "{D67F7B09-E5CD-4973-9A5A-28A32AA984CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Snowballs", "11. Snowballs\11. Snowballs.csproj", "{E5C07707-6DA8-44A8-90B1-839D361C3033}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Snowballs", "11. Snowballs\11. Snowballs.csproj", "{E5C07707-6DA8-44A8-90B1-839D361C3033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Print Part Of ASCII Table", "05. Print Part Of ASCII Table\05. Print Part Of ASCII Table.csproj", "{BF2E7E51-D146-423D-B248-D7B04573CDEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E5C07707-6DA8-44A8-90B1-839D361C3033}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C07707-6DA8-44A8-90B1-839D361C3033}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C07707-6DA8-44A8-90B1-839D361C3033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2E7E51-D146-423D-B248-D7B04573CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2E7E51-D146-423D-B248-D7B04573CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2E7E51-D146-423D-B248-D7B04573CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2E7E51-D146-423D-B248-D7B04573CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

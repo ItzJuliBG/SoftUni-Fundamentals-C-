@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+X:\SoftUni-Fundamentals-C-\11. Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

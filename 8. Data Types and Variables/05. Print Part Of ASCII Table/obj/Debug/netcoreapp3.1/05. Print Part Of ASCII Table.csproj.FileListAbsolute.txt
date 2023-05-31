@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.exe
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.deps.json
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+X:\SoftUni-Fundamentals-C-\8. Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.genruntimeconfig.cache
