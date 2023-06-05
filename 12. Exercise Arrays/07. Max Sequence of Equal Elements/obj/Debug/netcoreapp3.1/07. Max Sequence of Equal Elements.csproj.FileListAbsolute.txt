@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.exe
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.deps.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.dll
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.pdb
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.dll
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.pdb
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.genruntimeconfig.cache
