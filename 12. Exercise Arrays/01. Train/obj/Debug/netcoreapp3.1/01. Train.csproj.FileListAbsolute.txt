@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache
