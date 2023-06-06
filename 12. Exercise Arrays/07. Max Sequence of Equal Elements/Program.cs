@@ -11,31 +11,34 @@ namespace _07._Max_Sequence_of_Equal_Elements
         {
             int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            int currentNum = 0;
-            int previousNum = input[0];
-            int currentSeq = 0;
+            int currentSeq = 1;
             int longestSeqCount = 0;
+            int num = 0;
 
 
-            for (int i = 0; i < input.Length; i++)
+            for (int i = 0; i < input.Length - 1; i++)
             {
-                for (int j = 0; j < i; j++)
+                if (input[1] == input[i + 1])
                 {
-                    if (input[i] == input[j])
+                    currentSeq++;
+                    if (currentSeq > longestSeqCount)
                     {
-                        currentSeq++;
-                        if (currentSeq > longestSeqCount)
-                        {
-                            longestSeqCount = currentSeq;
-                        }
+                        longestSeqCount = currentSeq;
+                        num = input[i];
                     }
-                    else
-                    {
-                        currentSeq = 0;
-                    }
+
+                }
+                else
+                {
+                    currentSeq = 1;
                 }
             }
-            Console.WriteLine(longestSeqCount);
+            for (int  j= 0;  j<longestSeqCount-1; j++) 
+            {
+                Console.Write($"{num} ");
+            }
         }
+
     }
 }
+

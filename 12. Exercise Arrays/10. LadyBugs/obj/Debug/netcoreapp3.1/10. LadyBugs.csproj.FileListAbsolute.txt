@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb
+X:\SoftUni-Fundamentals-C-\12. Exercise Arrays\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.genruntimeconfig.cache
