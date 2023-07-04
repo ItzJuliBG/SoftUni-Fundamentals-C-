@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache

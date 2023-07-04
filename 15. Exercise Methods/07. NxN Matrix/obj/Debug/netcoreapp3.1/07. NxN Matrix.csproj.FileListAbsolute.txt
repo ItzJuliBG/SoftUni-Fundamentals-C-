@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache

@@ -51,7 +51,7 @@ namespace _10._LadyBugs
                         {
                             while (fieldCells[input[0] + input[2]] != true)
                             {
-                                input[2] = 2; 
+                                input[2] = 2; //
                                 if (fieldCells[input[0] + moveNum] == false)
                                 {
                                     fieldCells[input[0]] = false;

@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache

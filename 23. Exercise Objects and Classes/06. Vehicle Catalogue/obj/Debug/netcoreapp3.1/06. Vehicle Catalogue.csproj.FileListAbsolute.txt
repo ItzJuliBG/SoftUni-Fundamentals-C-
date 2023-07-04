@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.exe
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.deps.json
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+X:\SoftUni-Fundamentals-C-\23. Exercise Objects and Classes\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.genruntimeconfig.cache

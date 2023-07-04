@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.exe
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.deps.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\bin\Debug\netcoreapp3.1\6. Middle Characters.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.genruntimeconfig.cache

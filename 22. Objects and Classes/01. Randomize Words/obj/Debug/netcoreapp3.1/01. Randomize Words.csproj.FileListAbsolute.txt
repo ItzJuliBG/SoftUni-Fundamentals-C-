@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.exe
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.deps.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.dll
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.pdb
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.dll
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.pdb
+X:\SoftUni-Fundamentals-C-\22. Objects and Classes\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.genruntimeconfig.cache

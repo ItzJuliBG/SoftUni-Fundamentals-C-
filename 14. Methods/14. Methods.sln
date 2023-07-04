@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sign of Integer Numbers", "01. Sign of Integer Numbers\01. Sign of Integer Numbers.csproj", "{776D9550-C59C-43D8-908E-56B50B1691A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Grades", "02. Grades\02. Grades.csproj", "{3813D668-BB0A-4F9F-A141-EA67A9E83C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776D9550-C59C-43D8-908E-56B50B1691A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776D9550-C59C-43D8-908E-56B50B1691A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776D9550-C59C-43D8-908E-56B50B1691A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776D9550-C59C-43D8-908E-56B50B1691A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3813D668-BB0A-4F9F-A141-EA67A9E83C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3813D668-BB0A-4F9F-A141-EA67A9E83C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3813D668-BB0A-4F9F-A141-EA67A9E83C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3813D668-BB0A-4F9F-A141-EA67A9E83C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685693FC-CA3C-409E-B7C3-A7296708EAE1}
+	EndGlobalSection
+EndGlobal

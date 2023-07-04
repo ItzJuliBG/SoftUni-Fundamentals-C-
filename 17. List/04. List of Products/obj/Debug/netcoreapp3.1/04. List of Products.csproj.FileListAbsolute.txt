@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+X:\SoftUni-Fundamentals-C-\17. List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache

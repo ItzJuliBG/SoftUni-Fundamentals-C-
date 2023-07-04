@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.exe
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.deps.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.genruntimeconfig.cache

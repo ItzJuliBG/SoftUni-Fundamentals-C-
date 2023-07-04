@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.exe
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.deps.json
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+X:\SoftUni-Fundamentals-C-\14. Methods\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.genruntimeconfig.cache

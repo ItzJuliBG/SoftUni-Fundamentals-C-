@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.exe
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.deps.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.genruntimeconfig.cache

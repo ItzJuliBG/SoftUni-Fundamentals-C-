@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.exe
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.deps.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.genruntimeconfig.cache

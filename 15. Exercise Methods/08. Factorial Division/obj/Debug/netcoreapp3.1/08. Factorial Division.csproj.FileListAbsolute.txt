@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb
+X:\SoftUni-Fundamentals-C-\15. Exercise Methods\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.genruntimeconfig.cache

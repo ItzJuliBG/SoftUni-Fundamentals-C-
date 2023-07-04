@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Max Sequence of Equal E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Top Integers", "05. Top Integers\05. Top Integers.csproj", "{307498F2-4032-4BC2-A9C0-A0A2A51EE1C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. LadyBugs", "10. LadyBugs\10. LadyBugs.csproj", "{50BE059E-BF16-4A64-A5CF-BA8A19E67EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. LadyBugs", "10. LadyBugs\10. LadyBugs.csproj", "{50BE059E-BF16-4A64-A5CF-BA8A19E67EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Equal Sum", "06. Equal Sum\06. Equal Sum.csproj", "{B501AA35-4570-4126-B259-C1C831315E35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{50BE059E-BF16-4A64-A5CF-BA8A19E67EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50BE059E-BF16-4A64-A5CF-BA8A19E67EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50BE059E-BF16-4A64-A5CF-BA8A19E67EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B501AA35-4570-4126-B259-C1C831315E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B501AA35-4570-4126-B259-C1C831315E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B501AA35-4570-4126-B259-C1C831315E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B501AA35-4570-4126-B259-C1C831315E35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,22 +9,23 @@ namespace _05._Top_Integers
         {
             int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            int j = 0;
+            //int j = 0;
 
-            int[] topNums = new int[] { };
+            //int[] topNums = new int[] { };
             for (int i = 0; i < input.Length; i++)
             {
-                //if (i == j-1)
-                //{
-                //    break;
-                //}
-                j = i + 1;
-                if (input[i] > input[j])
+                if (i == input.Length-1)
                 {
-                    // input[i] = topNums[i];
+                    Console.Write(input[i]);
+                    break;
                 }
+                if (input[i] > input[i + 1])
+                {
+                    Console.Write(input[i]+" ");
+                }
+              
             }
-            Console.WriteLine(string.Join(" ", topNums));
+          //  Console.WriteLine(string.Join(" ", topNums));
 
 
 

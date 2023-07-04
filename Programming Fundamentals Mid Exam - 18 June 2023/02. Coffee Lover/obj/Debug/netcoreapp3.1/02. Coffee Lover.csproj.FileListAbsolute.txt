@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.exe
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.deps.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\bin\Debug\netcoreapp3.1\02. Coffee Lover.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Mid Exam - 18 June 2023\02. Coffee Lover\obj\Debug\netcoreapp3.1\02. Coffee Lover.genruntimeconfig.cache
