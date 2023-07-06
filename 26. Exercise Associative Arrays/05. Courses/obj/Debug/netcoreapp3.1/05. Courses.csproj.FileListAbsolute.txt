@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.exe
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.deps.json
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.dll
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.pdb
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.dll
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.pdb
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.exe
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.deps.json
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+X:\SoftUni-Fundamentals-C-\26. Exercise Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.genruntimeconfig.cache
