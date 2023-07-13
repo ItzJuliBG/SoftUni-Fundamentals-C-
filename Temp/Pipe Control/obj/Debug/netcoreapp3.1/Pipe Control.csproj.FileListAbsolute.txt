@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\bin\Debug\netcoreapp3.1\Pipe Control.exe
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\bin\Debug\netcoreapp3.1\Pipe Control.deps.json
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\bin\Debug\netcoreapp3.1\Pipe Control.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\bin\Debug\netcoreapp3.1\Pipe Control.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\bin\Debug\netcoreapp3.1\Pipe Control.dll
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\bin\Debug\netcoreapp3.1\Pipe Control.pdb
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.dll
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.pdb
+X:\SoftUni-Fundamentals-C-\Temp\Pipe Control\obj\Debug\netcoreapp3.1\Pipe Control.genruntimeconfig.cache

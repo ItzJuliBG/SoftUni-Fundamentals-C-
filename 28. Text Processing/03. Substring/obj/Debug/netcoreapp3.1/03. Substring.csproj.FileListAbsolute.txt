@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+X:\SoftUni-Fundamentals-C-\28. Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache
