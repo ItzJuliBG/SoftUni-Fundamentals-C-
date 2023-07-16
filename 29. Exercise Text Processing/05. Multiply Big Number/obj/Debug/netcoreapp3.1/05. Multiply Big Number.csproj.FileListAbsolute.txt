@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.exe
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.deps.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.genruntimeconfig.cache

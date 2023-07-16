@@ -17,15 +17,15 @@ kicegiciceeb
 
             bool isContaining = true;
 
-            //while(isContaining) 
-            //{
-            //    isContaining = word.Contains(remove);
-            //    if (isContaining)
-            //    {
+            while (isContaining)
+            {
+                isContaining = word.Contains(remove);
+                if (isContaining)
+                {
                     int index = word.IndexOf(remove);
-                    word.Remove(3);
-                //}
-            //}
+                    word = word.Remove(index, remove.Length);
+                }
+            }
             Console.WriteLine(word);
         }
     }

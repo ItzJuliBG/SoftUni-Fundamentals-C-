@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.genruntimeconfig.cache

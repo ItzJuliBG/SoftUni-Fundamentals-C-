@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+X:\SoftUni-Fundamentals-C-\28. Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache
