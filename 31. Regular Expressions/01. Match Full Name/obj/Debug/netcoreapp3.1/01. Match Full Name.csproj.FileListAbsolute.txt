@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.exe
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.deps.json
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.dll
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.pdb
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.dll
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.pdb
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.genruntimeconfig.cache

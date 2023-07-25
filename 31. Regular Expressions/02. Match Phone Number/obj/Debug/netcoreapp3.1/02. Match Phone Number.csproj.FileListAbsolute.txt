@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.exe
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.deps.json
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.dll
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.dll
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+X:\SoftUni-Fundamentals-C-\31. Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.genruntimeconfig.cache
