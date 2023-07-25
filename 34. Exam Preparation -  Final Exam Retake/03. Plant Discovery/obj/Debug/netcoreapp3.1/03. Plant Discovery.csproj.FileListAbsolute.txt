@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache

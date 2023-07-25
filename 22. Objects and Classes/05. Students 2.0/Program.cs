@@ -33,6 +33,7 @@ Sofia
                 students.Add(new Student(inputt[0], inputt[1], int.Parse(inputt[2]), inputt[3]));
 
             }
+
             string city = Console.ReadLine();
 
             foreach (Student s in students)
@@ -43,6 +44,7 @@ Sofia
                 }
 
             }
+            Console.WriteLine(students.Where(t => t.Age == 14));
 
         }
 

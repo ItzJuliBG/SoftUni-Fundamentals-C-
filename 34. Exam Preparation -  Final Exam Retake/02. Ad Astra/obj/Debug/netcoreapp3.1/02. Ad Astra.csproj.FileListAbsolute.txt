@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb
+X:\SoftUni-Fundamentals-C-\34. Exam Preparation -  Final Exam Retake\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.genruntimeconfig.cache

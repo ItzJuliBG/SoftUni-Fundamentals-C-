@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.exe
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.deps.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+X:\SoftUni-Fundamentals-C-\29. Exercise Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.genruntimeconfig.cache

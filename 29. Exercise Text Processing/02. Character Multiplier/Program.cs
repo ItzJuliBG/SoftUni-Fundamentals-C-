@@ -10,7 +10,8 @@ namespace _02._Character_Multiplier
             string[] inpt = Console.ReadLine().Split(' ').ToArray();
             string str1 = inpt[0];
             string str2 = inpt[1];
-            // 0/100
+
+            foreach(char c in )
         }
     }
 }
