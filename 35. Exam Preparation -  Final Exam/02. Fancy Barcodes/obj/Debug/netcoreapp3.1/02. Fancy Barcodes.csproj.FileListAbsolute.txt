@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache

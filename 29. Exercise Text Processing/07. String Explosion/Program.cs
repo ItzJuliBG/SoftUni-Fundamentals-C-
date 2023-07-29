@@ -1,30 +1,65 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net.Http.Headers;
-using System.Text;
-
-namespace _07._String_Explosion
+namespace _03._Articles_2._0
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-           List<string> list = Console.ReadLine().Split(">").ToList();
-            StringBuilder sb = new StringBuilder();
-            sb.Append(list[0]);
-            int explosion = 0;
+            int countArticles = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < list.Count; i++)
+            List<Article> articles = new List<Article>();
+
+            string[] input;
+
+            for (int i = 0; i < countArticles; i++)
             {
-                char[] t = list[i].ToCharArray();
-                explosion += int.Parse(t)-1;
-                if (explosion > 0)
-                {
+                input = Console.ReadLine().Split(", ");
 
-                }
+                var article = new Article(input[0], input[1], input[2]);
+
+                articles.Add(article);
+
             }
 
+            string orderByWhat = Console.ReadLine();
+
+            switch (orderByWhat)
+            {
+                case "title":
+                    articles = articles.OrderBy(X => X.Title).ToList();
+                    break;
+
+                case "content":
+                    articles = articles.OrderBy(X => X.Content).ToList();
+                    break;
+
+                case "autor":
+                    articles = articles.OrderBy(X => X.Author).ToList();
+                    break;
+            }
+
+            Console.WriteLine(string.Join(Environment.NewLine, articles));
+        }
+    }
+
+    class Article
+    {
+        public string Title { get; set; }
+        public string Content { get; set; }
+        public string Author { get; set; }
+
+        public Article(string title, string content, string author)
+        {
+            Title = title;
+            Content = content;
+            Author = author;
+        }
+
+        public override string ToString()
+        {
+            return $"{Title} - {Content}: {Author}";
         }
     }
 }

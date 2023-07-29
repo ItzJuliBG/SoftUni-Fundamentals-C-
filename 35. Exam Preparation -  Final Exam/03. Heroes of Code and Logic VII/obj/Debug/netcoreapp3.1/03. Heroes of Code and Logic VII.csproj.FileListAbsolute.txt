@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.exe
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.deps.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.genruntimeconfig.cache
