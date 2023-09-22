@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.exe
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.deps.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.dll
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.pdb
+X:\SoftUni-Fundamentals-C-\Programming Fundamentals Final Exam - 30 July 2023\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.genruntimeconfig.cache

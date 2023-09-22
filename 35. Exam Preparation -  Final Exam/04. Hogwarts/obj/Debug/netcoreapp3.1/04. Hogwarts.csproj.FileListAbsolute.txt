@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\bin\Debug\netcoreapp3.1\04. Hogwarts.exe
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\bin\Debug\netcoreapp3.1\04. Hogwarts.deps.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\bin\Debug\netcoreapp3.1\04. Hogwarts.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\bin\Debug\netcoreapp3.1\04. Hogwarts.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\bin\Debug\netcoreapp3.1\04. Hogwarts.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\bin\Debug\netcoreapp3.1\04. Hogwarts.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\04. Hogwarts\obj\Debug\netcoreapp3.1\04. Hogwarts.genruntimeconfig.cache

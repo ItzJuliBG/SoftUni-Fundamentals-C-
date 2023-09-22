@@ -1,0 +1,13 @@
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\bin\Debug\netcoreapp3.1\Test.exe
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\bin\Debug\netcoreapp3.1\Test.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\bin\Debug\netcoreapp3.1\Test.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.dll
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.pdb
+X:\SoftUni-Fundamentals-C-\35. Exam Preparation -  Final Exam\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
